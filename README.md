@@ -53,7 +53,9 @@ Encourage category bundling for categories with high sales but low profit margin
 Optimize discount strategy to improve profitability.
 Increase promotional campaigns during months with declining sales.
 
-## DATASET USED
+## Dashboard
+"https://github.com/user-attachments/assets/5daba0ea-48cd-4042-be25-d7ad2da0648a"
+
 
 
 
