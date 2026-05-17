@@ -11,26 +11,26 @@ Microsoft Excel
 
 ### 4. Key Steps
 #### a. Data Cleaning
-Removed duplicates
-Fixed blank values
-Standardized date formats
-Trimmed extra spaces
-Ensured numeric values are correct
-Created calculated fields (Profit Margin, Year, Month)
+i)Removed duplicates
+ii)Fixed blank values
+iii)Standardized date formats
+iv)Trimmed extra spaces
+v)Ensured numeric values are correct
+vi)Created calculated fields (Profit Margin, Year, Month)
 
 #### b. Data Analysis
-Pivot Tables created:
-Regional Sales Summary
-Category-wise Sales & Profit
-Monthly Sales Trend
-Top 10 Customers
-Sub-Category Performance
+i)Pivot Tables created:
+ii)Regional Sales Summary
+iii)Category-wise Sales & Profit
+iv)Monthly Sales Trend
+v)Top 10 Customers
+vi)Sub-Category Performance
 
 #### c. Dashboard Creation
-KPI Cards: Total Sales, Total Profit, Total Orders
-Charts: Column, Pie, Line, Bar
-Slicers: Year, Region, Category
-Interactive connections for all visuals
+i)KPI Cards: Total Sales, Total Profit, Total Orders
+ii)Charts: Column, Pie, Line, Bar
+iii)Slicers: Year, Region, Category
+iv)Interactive connections for all visuals
 
 ### 5. Insights Found
 
@@ -46,12 +46,12 @@ d. is the sales trend over months
 e. Virginia state is underperforming
 
 ### 6. Recommendations
-Focus marketing efforts on the Central, where profit margins are low.
-Improve inventory planning for low-performing sub-categories which is phone.
-Develop targeted offers for top customers to retain and increase revenue.
-Encourage category bundling for categories with high sales but low profit margins.
-Optimize discount strategy to improve profitability.
-Increase promotional campaigns during months with declining sales.
+i)Focus marketing efforts on the Central, where profit margins are low.
+ii)Improve inventory planning for low-performing sub-categories which is phone.
+iii)Develop targeted offers for top customers to retain and increase revenue.
+iv)Encourage category bundling for categories with high sales but low profit margins.
+v)Optimize discount strategy to improve profitability.
+vi)Increase promotional campaigns during months with declining sales.
 
 ### Dashboard
 "https://github.com/user-attachments/assets/5daba0ea-48cd-4042-be25-d7ad2da0648a"
